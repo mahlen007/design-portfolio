@@ -1,0 +1,21 @@
+.header {
+    flex: 0 0 auto;
+
+}
+
+.header a {
+    color: $font-color;
+}
+
+@media (max-width: 767px) {
+    .title, .logo {
+        padding: 1em 1em 1em o;
+    }
+
+    .title{
+        min-width: 50%;
+    }
+    .logo {
+        display: none !important;
+    }
+}

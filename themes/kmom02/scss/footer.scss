@@ -1,0 +1,24 @@
+.footer {
+    display: flex;
+    justify-content: space-between;
+    height: 150px;
+    padding: 3em;
+    background-color: $footer-background-color;
+    color: $footer-color;
+}
+
+.footer a{
+    color: $footer-color;
+}
+
+.footer>div {
+        text-align: center;
+}
+
+.footer .social {
+    font-size: 2rem;
+}
+
+.footer {
+    flex: 0 0 auto;
+}
