@@ -10,12 +10,11 @@
 }
 
 .technology-container .technology {
-    box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.2);
+    box-shadow: 10px 10px 5px 0 rgba(0, 0, 0, 0.2);
     height: 5em;
     border: 1px solid $border-color;
     padding: 1em;
-    background-image:
-    linear-gradient(to bottom right, #ccc, $font-alternative-color);
+    background-image: linear-gradient(to bottom right, #ccc, $font-alternative-color);
     color: $font-color;
     font-size: 2rem;
     text-decoration: none;
@@ -43,4 +42,16 @@
     .technology-article .sidebar {
         display: none;
     }
+
+    .technology-container {
+        display: grid;
+        grid-column: span 1;
+    }
+
+    .technology-container h1,
+    .technology-container p {
+        grid-column: span 1;
+    }
+
+
 }
