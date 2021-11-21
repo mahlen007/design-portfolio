@@ -1,0 +1,46 @@
+.technology-container {
+    display: grid;
+    grid-column: span 3;
+    gap: 2em 2em;
+}
+
+.technology-container h1,
+.technology-container p {
+    grid-column: span 3;
+}
+
+.technology-container .technology {
+    box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.2);
+    height: 5em;
+    border: 1px solid $border-color;
+    padding: 1em;
+    background-image:
+    linear-gradient(to bottom right, #ccc, $font-alternative-color);
+    color: $font-color;
+    font-size: 2rem;
+    text-decoration: none;
+}
+
+.technology-article {
+    display: flex;
+    flex-direction: row;
+}
+
+.technology-article .sidebar {
+    width: 30%;
+}
+
+.technology-sidebar .sidebar ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.technology-article .article {
+    width: auto;
+}
+
+@media (max-width: 767px) {
+    .technology-article .sidebar {
+        display: none;
+    }
+}
