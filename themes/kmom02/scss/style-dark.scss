@@ -5,11 +5,8 @@ $fa-font-path: '../../shared/fontawesome/webfonts';
 @import '../../shared/fontawesome/scss/regular';
 
 @import '../../node_modules/normalize.css/normalize';
-@import 'variables';
+@import 'dark-variables';
 
-//@import 'style-min';
-//@import 'style-dark';
-//@import 'style-dark-min';
 @import 'technologies';
 @import 'header';
 @import 'main';
@@ -21,3 +18,5 @@ $fa-font-path: '../../shared/fontawesome/webfonts';
 
 
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto&display=swap');
+
+/* Längst ner i min style-dark.scss */

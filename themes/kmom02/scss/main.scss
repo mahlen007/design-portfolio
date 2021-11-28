@@ -10,10 +10,19 @@ body {
     flex-direction: column;
 }
 
+
 .main {
     flex: 1 0 auto;
     width: 64em;
     margin: 2em auto;
+    background-color: $main-color;
+    padding: 2em 2em 2em 2em;
+}
+
+.main a,
+.main active,
+.main visited {
+    color: $link-color;
 }
 
 @media (max-width: 767px) {

@@ -4,8 +4,15 @@
 }
 
 .header a {
-    color: $font-color;
+    color: $link-color;
 }
+
+.nav a,
+.nav visited {
+    text-decoration: none;
+    color: white;
+}
+
 
 @media (max-width: 767px) {
     .title,
@@ -16,7 +23,7 @@
     .title {
         min-width: 50%;
     }
-    
+
     .logo {
         display: none !important;
     }

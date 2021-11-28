@@ -1,3 +1,4 @@
+@charset "UTF-8";
 /*!
  * Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com
  * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
@@ -6466,10 +6467,10 @@ template {
 .technology-container .technology {
   box-shadow: 10px 10px 5px 0 rgba(100, 100, 100, 0.4);
   height: 5em;
-  border: 1px solid #ccc;
+  border: 1px solid #E3AE00;
   padding: 1em;
-  background-image: linear-gradient(to bottom right, #ccc, #fff);
-  color: #000;
+  background-image: linear-gradient(to bottom right, #E3AE00, #FDA800);
+  color: #FAD90D;
   font-size: 2rem;
   text-decoration: none;
 }
@@ -6512,7 +6513,7 @@ template {
 }
 
 .header a {
-  color: #444;
+  color: #E3AE00;
 }
 
 .nav a,
@@ -6536,8 +6537,8 @@ template {
   }
 }
 body {
-  background-color: #1fbded;
-  color: #000;
+  background-color: #222222;
+  color: #FAD90D;
   padding-left: 2em;
   padding-right: 2em;
 }
@@ -6551,14 +6552,14 @@ body {
   flex: 1 0 auto;
   width: 64em;
   margin: 2em auto;
-  background-color: #1174D6;
+  background-color: #121212;
   padding: 2em 2em 2em 2em;
 }
 
 .main a,
 .main active,
 .main visited {
-  color: #444;
+  color: #E3AE00;
 }
 
 @media (max-width: 767px) {
@@ -6572,16 +6573,16 @@ body {
   height: 150px;
   padding: 3em;
   background-color: #444;
-  color: #144AF7;
+  color: #aaa;
 }
 
 .footer a {
-  color: #144AF7;
+  color: #aaa;
   text-decoration: none;
 }
 
 .footer a:visited {
-  color: #144AF7;
+  color: #aaa;
   text-decoration: none;
 }
 
@@ -6615,12 +6616,12 @@ html {
 }
 
 body {
-  line-height: 1.4;
+  line-height: 1.6;
 }
 
 p {
   font-size: 1em;
-  margin-bottom: 1.4em;
+  margin-bottom: 1.6em;
 }
 
 @media (min-width: 64em) {
@@ -6632,15 +6633,15 @@ blockquote {
   font-style: italic;
   margin-left: 1em;
   padding-left: 1em;
-  border-left: 0.5em solid #f5f5f5;
+  border-left: 0.5em solid #E3AE00;
 }
 
 code {
   margin: 0 0.1em;
   padding: 0.1em 0.2em;
-  border: 1px solid #ccc;
+  border: 1px solid #E3AE00;
   border-radius: 0.3em;
-  background: #f5f5f5;
+  background: #555555;
   font-family: monospace;
   font-size: 0.85rem;
   line-height: 1.9824;
@@ -6648,9 +6649,9 @@ code {
 
 pre {
   padding: 0 1em;
-  border: 1px solid #ccc;
+  border: 1px solid #E3AE00;
   border-radius: 0.3em;
-  background: #f5f5f5;
+  background: #555555;
 }
 
 pre code {
@@ -6720,3 +6721,4 @@ pre code {
     cursor: pointer;
   }
 }
+/* Längst ner i min style-dark.scss */
