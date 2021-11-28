@@ -6518,7 +6518,7 @@ template {
 .nav a,
 .nav visited {
   text-decoration: none;
-  color: white;
+  color: #fff;
 }
 
 @media (max-width: 767px) {
@@ -6551,8 +6551,8 @@ body {
   flex: 1 0 auto;
   width: 64em;
   margin: 2em auto;
-  background-color: #1174D6;
-  padding: 2em 2em 2em 2em;
+  background-color: #1174d6;
+  padding: 2em;
 }
 
 .main a,
@@ -6572,16 +6572,16 @@ body {
   height: 150px;
   padding: 3em;
   background-color: #444;
-  color: #144AF7;
+  color: #144af7;
 }
 
 .footer a {
-  color: #144AF7;
+  color: #144af7;
   text-decoration: none;
 }
 
 .footer a:visited {
-  color: #144AF7;
+  color: #144af7;
   text-decoration: none;
 }
 
@@ -6681,7 +6681,7 @@ pre code {
 
 .nav a,
 .nav-toggle {
-  color: white;
+  color: #fff;
 }
 
 .nav-toggle {

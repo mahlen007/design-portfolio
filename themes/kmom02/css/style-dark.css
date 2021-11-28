@@ -6467,10 +6467,10 @@ template {
 .technology-container .technology {
   box-shadow: 10px 10px 5px 0 rgba(100, 100, 100, 0.4);
   height: 5em;
-  border: 1px solid #E3AE00;
+  border: 1px solid #e3ae00;
   padding: 1em;
-  background-image: linear-gradient(to bottom right, #E3AE00, #FDA800);
-  color: #FAD90D;
+  background-image: linear-gradient(to bottom right, #e3ae00, #fda800);
+  color: #fad90d;
   font-size: 2rem;
   text-decoration: none;
 }
@@ -6513,13 +6513,13 @@ template {
 }
 
 .header a {
-  color: #E3AE00;
+  color: #e3ae00;
 }
 
 .nav a,
 .nav visited {
   text-decoration: none;
-  color: white;
+  color: #fff;
 }
 
 @media (max-width: 767px) {
@@ -6537,8 +6537,8 @@ template {
   }
 }
 body {
-  background-color: #222222;
-  color: #FAD90D;
+  background-color: #222;
+  color: #fad90d;
   padding-left: 2em;
   padding-right: 2em;
 }
@@ -6553,13 +6553,13 @@ body {
   width: 64em;
   margin: 2em auto;
   background-color: #121212;
-  padding: 2em 2em 2em 2em;
+  padding: 2em;
 }
 
 .main a,
 .main active,
 .main visited {
-  color: #E3AE00;
+  color: #e3ae00;
 }
 
 @media (max-width: 767px) {
@@ -6633,15 +6633,15 @@ blockquote {
   font-style: italic;
   margin-left: 1em;
   padding-left: 1em;
-  border-left: 0.5em solid #E3AE00;
+  border-left: 0.5em solid #e3ae00;
 }
 
 code {
   margin: 0 0.1em;
   padding: 0.1em 0.2em;
-  border: 1px solid #E3AE00;
+  border: 1px solid #e3ae00;
   border-radius: 0.3em;
-  background: #555555;
+  background: #555;
   font-family: monospace;
   font-size: 0.85rem;
   line-height: 1.9824;
@@ -6649,9 +6649,9 @@ code {
 
 pre {
   padding: 0 1em;
-  border: 1px solid #E3AE00;
+  border: 1px solid #e3ae00;
   border-radius: 0.3em;
-  background: #555555;
+  background: #555;
 }
 
 pre code {
@@ -6682,7 +6682,7 @@ pre code {
 
 .nav a,
 .nav-toggle {
-  color: white;
+  color: #fff;
 }
 
 .nav-toggle {
