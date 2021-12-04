@@ -83,8 +83,6 @@ Nordnet användet svart mycket, men också starka färger. Det påminner lite av
 
 För brödtexten har Nordnet valt ett typsnitt som heter "nordnet sans mono" eller av typen sans-serif. Rubriker är av typen sans-serif. De har även valt att punkt efter alla rubriker.
 
-Dokumentera dina resultat från din studie. Berätta vad du kom fram till, vilka resultat du hittade och observerade.
-
 Analys
 -----------------------
 De webbplatser jag har analyserat använder ganska få färger. Jag tycker att Aktieinvest nya design och färgval känns väldigt genomtänkt och genomarbetat. Aktieinvest har gått från en mer traditionell blå färg till grön färg. Jag tror att det beror på att de vill ge gedigert intryck. Grönt passar också bra med att de jobbar mer med hållbarhet och ett hållbart långsiktigt sparande. Avanza har också en profil som går mot grönt eller blågrönt. Nordnet använder mycket svart och vitt, men de andra färgerna de använder sticker ut ganska mycket. Det lite som om man skriker ut sitt budskap. Jag gillar färgerna bäst på Aktieinvest webbsida, men det kan bero på att den är helt ny och mest modern i sitt tilltal.
