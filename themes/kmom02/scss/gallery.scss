@@ -1,0 +1,17 @@
+.gallery-container {
+    display: grid;
+    grid-column: span 3;
+    gap: 2em 2em;
+}
+
+.gallery-container .img {
+    width: 333px;
+}
+
+
+@media (max-width: 767px) {
+    .gallery-container {
+        display: grid;
+        grid-column: span 1;
+    }
+}
