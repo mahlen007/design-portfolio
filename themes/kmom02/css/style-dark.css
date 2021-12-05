@@ -6453,6 +6453,40 @@ template {
   display: none;
 }
 
+.gallery-container {
+  display: grid;
+  grid-column: span 3;
+  gap: 2em 2em;
+}
+
+.gallery-container .img {
+  width: 333px;
+}
+
+.embed-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+}
+
+.embed-container iframe,
+.embed-container object,
+.embed-container embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+@media (max-width: 767px) {
+  .gallery-container {
+    display: grid;
+    grid-column: span 1;
+  }
+}
 .technology-container {
   display: grid;
   grid-column: span 3;

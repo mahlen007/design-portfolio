@@ -75,7 +75,9 @@ https://skovde.se/
 
 https://start.stockholm/
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRrRW-8QFp2KgqAEtB_BOE5T04EHLAURzyCD2TPuzW2BUI00WNDyau3v8cSpsrp-b3n3jtMyct4M8eG/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<div class="embed-container">
+    <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRrRW-8QFp2KgqAEtB_BOE5T04EHLAURzyCD2TPuzW2BUI00WNDyau3v8cSpsrp-b3n3jtMyct4M8eG/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" frameborder="0" allowfullscreen></iframe>
+</div>
 
 Övrigt
 -----------------------

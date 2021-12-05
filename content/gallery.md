@@ -27,9 +27,9 @@ Images:
 Galleri
 ==========================
 
-Här kommer USA 2013.
-![Bryce](image/bryce.jpg?v&crop=50,50,100,100)
-<img src="%base_url%/image/bryce.jpg?crop=50,50,150,150" alt="Bryce National Park">
+Här kommer bilder från resa i USA 2013.
+<!--<img src="%base_url%/image/bryce.jpg?w=400" alt="Bryce National Park">-->
+
 <!--<div class="gallery-container">
     <a href="%base_url%/image/bryce.jpg" target="_blank">  
     <img src="%base_url%/image/bryce.jpg?w=333" alt="Bryce National Park"></a>-->
