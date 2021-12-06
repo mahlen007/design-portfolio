@@ -6455,12 +6455,22 @@ template {
 
 .gallery-container {
   display: grid;
-  grid-column: span 3;
-  gap: 2em 2em;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  padding: 4rem 4rem;
+  grid-gap: 2rem;
 }
 
-.gallery-container .img {
-  width: 333px;
+.gallery-container .gallery {
+  padding: 0 6px;
+  float: left;
+  display: flex;
+  flex-direction: row;
+  text-decoration: none;
+}
+
+.gallery-article {
+  display: flex;
+  flex-direction: row;
 }
 
 .embed-container {
@@ -6484,7 +6494,11 @@ template {
 @media (max-width: 767px) {
   .gallery-container {
     display: grid;
-    grid-column: span 1;
+  }
+}
+@media (max-width: 400px) {
+  .gallery-container {
+    display: grid;
   }
 }
 .technology-container {

@@ -3,17 +3,31 @@
 <body>
    {% include 'incl/nav.twig' %}
 
-   <div class="main" role="main">
+   <div class="main">
        {{ content }}
-
+</div>
+<div class="main gallery-container" role="main">
      <div class="gallery-container">
        {% for image in meta["Images"] %}
            <a href="{{ base_url }}{{ image.url }}" target="_blank">
-               <img src="{{ base_url }}{{ image.url }}?w=333&h=333" alt="{{ image.alt }}">
+            <picture class="gallery">
+                <source media="(min-width: 668px)" srcset="{{ base_url }}{{ image.url }}?w=333&h=333&crop-to-fit&q=40">
+                <source media="(min-width: 376px)" srcset="{{ base_url }}{{ image.url }}?w=376&crop-to-fit&q=40">
+               <img src="{{ base_url }}{{ image.url }}?w=333&h=333&crop-to-fit&q=40" alt="{{ image.alt }}">
+            </picture>
            </a>
        {% endfor %}
        </div>
    </div>
+
+   <div class="embed-container">
+   <iframe src="https://www.youtube.com/embed/x1gCrNnzvlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+   </iframe>
+   </div>
+
+
+
+
 
    {% include 'incl/footer.twig' %}
 </body>
