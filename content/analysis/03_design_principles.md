@@ -21,7 +21,7 @@ Jag har tittat på hur förstasidan och de olika är uppbyggda. Jag har använt 
 
 Resultat
 -----------------------
-miaskaringer.se
+## miaskaringer.se
 <img src="%base_url%/image/miaskaringer.jpg?w=640" alt="Mia Skäringer">
 Det viktigaste med webbplatsen är att göra reklam för aktuella projekt. I detta fallen en film, som man även kan boka biljetter till. Det finns även en biografi, kontaktuppgifter och en shop för att köpa olika saker.
 Webbplatsen är väldigt avskalad färgmässigt. Den är nästan enbart svart, vit och grå, men med inslag av lite färger som poppar ut.
@@ -31,7 +31,7 @@ Det ser ut som det enbart är två sidor. Istället scrollas man ner på framsid
 
 Mias sida får värdena 86 för performance, 85 för accebility, 73 för best practices och 92 för SEO. Här ser det ut som om de jobbat mycket med SEO.
 
-bauer.nu
+## bauer.nu
 <img src="%base_url%/image/bauer.jpg?w=640" alt="Josephine Bauer">
 Denna sida handlar om skådespelerskan Josephine Bauer.
 Det viktigaste med sidan är att sälja in Josephine som skådespelare. Det finns ett litet bildgalleri som man kan scrolla igenom. Det finns information om bland annat ålder och längd. Det finns även kontaktuppgifter till henne och hennes agent.
@@ -42,7 +42,7 @@ Texten är av typen sans-serif. Den enda texten som står ut är namnet Josephin
 Bauers sida får värdena 91 för performance, 97 för accebility, 93 för best practices och 92 för SEO. Allt över 90.
 
 
-leonardodicaprio.com
+## leonardodicaprio.com
 <img src="%base_url%/image/leonardodicaprio.jpg?w=640" alt="Leonardo di Caprio">
 Denna webbplats handlar om Leonardo di Caprio. Det viktigaste verkar vara Leonardo Dicaprio Foundation, som är någon form av stiftelse. Sidan används för att göra reklam för den och förstärka intrycket med Leonardos karriär.
 På första sidan är det presentation av det som är aktuellt. På en undersida finns en filmografi med filmerna som Leonardo har varit i.  
