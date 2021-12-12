@@ -6455,7 +6455,7 @@ template {
 .gallery-container {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
-  padding: 4rem 4rem;
+  padding: 4rem;
   grid-gap: 2rem;
 }
 
@@ -6614,9 +6614,9 @@ body {
 
 .main {
   flex: 1 0 auto;
-  width: 64em;
-  margin: 2em auto;
-  background-color: #1174d6;
+  width: 54em;
+  margin: 2em;
+  background-color: #92d7f0;
   padding: 2em;
 }
 
@@ -6628,7 +6628,7 @@ body {
 
 @media (max-width: 767px) {
   .main {
-    width: 96%;
+    width: 90%;
   }
 }
 .footer {
@@ -6636,17 +6636,17 @@ body {
   justify-content: space-between;
   height: 150px;
   padding: 3em;
-  background-color: #14F7AF;
-  color: #144af7;
+  background-color: #14f7af;
+  color: #000;
 }
 
 .footer a {
-  color: #144af7;
+  color: #000;
   text-decoration: none;
 }
 
 .footer a:visited {
-  color: #144af7;
+  color: #000;
   text-decoration: none;
 }
 

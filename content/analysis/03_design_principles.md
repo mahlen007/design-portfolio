@@ -48,30 +48,24 @@ Denna webbplats handlar om Leonardo di Caprio. Det viktigaste verkar vara Leonar
 På första sidan är det presentation av det som är aktuellt. På en undersida finns en filmografi med filmerna som Leonardo har varit i.  
 
 Webbplatsen design bygger mycket på stora fotografier som går horisontellt över hela skärmen. Förstasidans bilder växlar automatiskt. Webbplatsen är annars svart med vit text.
-Jag tycker att webbplatsen är snygg, ger ett proffsigt intryck och passar bra med filmtemat.
+Jag tycker att webbplatsen är snygg, ger ett proffsigt intryck och passar bra med filmtemat. Designen är den samma även för undersidor.
 
 Leonardos sida får värdena 85 för performance, 81 för accebility, 67 för best practices och 73 för SEO. Allt mellan 50 och 89.
 
-
-Kommentera webbplatsens mål och syfte. Varför finns webbplatsen till?
-
-Kommentera webbplatsens design och vad som kännetecknar den rent allmänt.
-
-Kommentera om du själv anser att designen gynnar webbplatsens mål och syfte, och/eller vilken känsla som designen ger.
-
-Lyft fram den eller de designprinciper du anser kännetecknar webbplatsens design och exemplifiera. Notera gärna vilka designelement som använts.
-
-Kika om designprinciperna som används är lika/olika för framsidan och undersidorna och kommentera.
-
-
-
-Dokumentera dina resultat från din studie. Berätta vad du kom fram till, vilka resultat du hittade och observerade.
 
 Analys
 -----------------------
 Jag tycker att det är tydligt med de 3 webbplatserna vilket det främsta målet med webbplatserna är. Jag tycker alla 3 förmedlar en bra känsla.
 Jag förstår varför de har valt färgerna, eller avsaknaden på färger. Sidan känns ofta modern om man inte har för mycket färger. Det är lättare om man använder svart, vitt och en gråskala. Bilderna som får också större uppmärksamhet då. Särskilt Leonardo di Caprios webbplats använder sig av väldigt mycket bilder.
 Det är också en logisk uppbyggnad av webbplatserna.
+
+Min portfolio
+-----------------------
+Reflektioner och analys över min egen webbplats. Den är av naturliga skäl betydligt mer spretig än för skådespelarna. Jag har valt blå färger, eftersom jag gillar blå. Givetvis kunde jag gjort en helt svart eller vit webbplats, men det är roligt att ta ut svängarna lite.
+
+Jag har försökt jobba med symmetri och färgsättning. Det finns givetvis horisontella linjer. Bland annat till footer. Jag har vertikala linjer runt mitt centrala innehåll. Jag skuggningar som ger en känsla av djup på teknologisidan. I galleriet arbetar jag med symmetri.
+
+Jag måste se över mina färger nu när jag ska förbättra sidan. Kontrasten är inte tillräckligt stor. Tyvärr blir inte sidan lika tydligt blå, men det blir en bättre kontrast. Jag lägger även in ett mönster i bakgrunden. Detta för att liva upp sidan lite och att den inte blir lika stel.
 
 Referenser
 -----------------------
@@ -80,6 +74,8 @@ https://miaskaringer.se/
 http://leonardodicaprio.com/
 
 https://www.bauer.nu/
+
+https://developers.google.com/web/tools/lighthouse
 
 Övrigt
 -----------------------

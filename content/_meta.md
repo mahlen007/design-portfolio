@@ -1,5 +1,6 @@
 ---
 Logo: image/klappa2.png
+alt: Filmklappa
 Tagline: My portfolio.
 Social:
     - title: Link till sidans github repo.
