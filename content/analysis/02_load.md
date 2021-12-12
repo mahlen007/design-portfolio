@@ -1,9 +1,8 @@
 ---
-Title: KMOM05 - Load
-Description: Load.
+Title: KMOM05 - Laddningstid
+Description: Laddningstid
 Template: analys
 ---
-# Load
 
 Webbplatsers laddningstider
 =======================

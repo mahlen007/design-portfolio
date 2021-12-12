@@ -1,10 +1,8 @@
 ---
-Title: KMOM04 - Colors
-Description: Färger.
+Title: KMOM04 - Färger
+Description: Analys av vilka färger/färgschema som används.
 Template: analys
 ---
-# Colors
-
 
 Färger
 =======================
